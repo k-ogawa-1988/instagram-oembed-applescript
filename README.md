@@ -1,0 +1,2 @@
+# instagram-oembed-applescript
+Instagram埋め込みHTML取得用AppleScript
